@@ -1,1 +1,1 @@
-current_excercise = 5
+todays_date = 5
