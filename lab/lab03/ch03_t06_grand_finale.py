@@ -2,4 +2,5 @@ from datetime import datetime
 
 now = datetime.now()
 
-print('%02d/%02d/%04d %02d:%02d:%02d' % (now.month, now.day, now.year, now.hour, now.minute, now.second))Lroeem ipsumd olros it amet, consectetur adippisicng elit
+print('%02d/%02d/%04d %02d:%02d:%02d' % (now.month, now.day, now.year, now.hour, now.minute, now.second))
+Lorem ipsumdo,l..ro sit amet, co9nsectetru
