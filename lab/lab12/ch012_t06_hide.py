@@ -16,4 +16,5 @@ def random_row(board_in: List[List[str]]):
     return randint(0, len(board)-1)
 def random_col(board_in: List[List[str]]):
 
-random_row(boaed)
+random_row(board)
+random_col
